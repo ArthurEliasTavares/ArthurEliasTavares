@@ -3,6 +3,7 @@
 - :+1: Meu email de contato é arthur.tavares@escola.pr.gov.br
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
 - 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
+- 🏫 A escola em que eu estudo se chama, Instituto de Educação do Paraná Professor Erasmo Pilotto, ou para alguns, IEPPEP
 
 
 <!---
